@@ -1,0 +1,126 @@
+[
+  {
+    "name": "My alternative Portfolio Website",
+    "desc": "Personal Portfolio Website using NextJS and tailwindCSS. Don't Need Much Info About It, Just Scroll Down. You're Here Only",
+    "image": "3",
+    "category": "basicweb",
+    "links": {
+      "view": "https://personal-website-iaayushshahs-projects.vercel.app/",
+      "code": "https://github.com/i-aayushshah/personal-protfolio"
+    }
+  },
+  {
+    "name": "Research on AI/ Chatgpt",
+    "desc": "A research on global concerns regarding Chatgpt's potential effects on human creativity and imagination. ",
+    "image": "2",
+    "category": "research",
+    "links": {
+      "view": "https://www.researchgate.net/publication/373071662_How_ChatGPT_AI_is_likely_to_become_a_Potential_Threat_or_not_to_Human_Imagination_and_Creativity"
+
+    }
+  },
+  {
+    "name": "Oly Math",
+    "desc": "Oly Math, a Q/A platform tailored for Math Olympiads Aspirants, emphasizing Number Theory.",
+    "image": "5",
+    "category": "basicweb",
+    "links": {
+      "view": "https://olymath.great-site.net/",
+      "code": "https://github.com/i-aayushshah/olymaths"
+    }
+  },
+  {
+    "name": "Research on Crytography",
+    "desc": "A research on cryptography, as it plays a pivotal role in safeguarding privacy and security in the digital realm.",
+    "image": "6",
+    "category": "research",
+    "links": {
+      "view": "https://www.researchgate.net/publication/373546754_Enhancing_Post-Quantum_Cryptography_Exploring_Mathematical_Foundations_and_Comparative_Analysis_of_Different_Cryptographic_Algorithm"
+    }
+  },
+  {
+    "name": "Uunchai Website",
+    "desc": "This is an educational website I built using NextJS for 5-week project-based learning summer program organized by FountED Foundation.",
+    "image": "4",
+    "category": "basicweb",
+    "links": {
+      "view": "https://uunchaii.vercel.app/",
+      "code": "https://github.com/i-aayushshah/uunchaii"
+    }
+  },
+  {
+    "name": "My Friend's Portfolio Website",
+    "desc": "A personal portfolio website I built for my friend Rabin, showcasing his skills, projects, and achievements. ",
+    "image": "1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.rabinrijal.com.np/",
+      "code": "https://github.com/i-aayushshah/rabinrijal"
+    }
+  },
+  {
+    "name": "Research on Prime Number Pattern ",
+    "desc": "A research on intricate patterns of prime numbers, recognizing their significance in various aspects of life.",
+    "image": "11",
+    "category": "research",
+    "links": {
+      "view": "https://www.researchgate.net/publication/372779725_A_Review_of_Prime_Numbers_Squaring_Prime_Pattern_Different_Types_of_Primes_and_Prime_Factorization_Analysis"
+    }
+  },
+
+
+
+
+  {
+    "name": "Rocket Digital Website",
+    "desc": "This is an educational website I built as a personal project to teach web development.",
+    "image": "12",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rocket-digital-one.vercel.app/",
+      "code": "hhttps://github.com/i-aayushshah/rocket.digital"
+    }
+  },
+  {
+    "name": "Dockskool - WordPress Website",
+    "desc": "An engaging wordPress Website crafted by me for Docskool, a film campaign collaborating with cinemas in South Asia .",
+    "image": "7",
+    "category": "basicweb",
+    "links": {
+      "view": "https://docskool.org.np/",
+      "code": "https://docskool.org.np/"
+    }
+  },
+  {
+    "name": "Tourist Data Analysis",
+    "desc": "I stumbled upon the pandas, NumPy, and matplotlib.pyplot libraries for data analysis, prompting me to analyze tourist arrival data in Nepal from 1992 to 2013.",
+    "image": "9",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/i-aayushshah/python-tourist-arrival",
+      "code": "https://github.com/i-aayushshah/python-tourist-arrival"
+    }
+  },
+  {
+    "name": "E-Wallet System",
+    "desc": "Using Python, I've successfully crafted a model of e-wallet system with many features including user profile creation and management of personal information.",
+    "image": "10",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/i-shahaayush/python-ewallet",
+      "code": "https://github.com/i-shahaayush/python-ewallet"
+    }
+  },
+  {
+    "name": "Menu Driven Software",
+    "desc": "Using C++, I completed a project involving a menu-driven software system for efficient customer financial transactions,",
+    "image": "8",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/i-shahaayush/c-plus",
+      "code": "https://github.com/i-shahaayush/c-plus"
+    }
+  }
+
+
+]

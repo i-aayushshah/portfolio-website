@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Bronze Honour - IYMC",
+    "desc": "I was awarded the Bronze Honour for my exceptional performance in the final round of the International Youth Math Challenge 2023.",
+    "image": "4",
+    "category": "honor",
+    "links": {
+      "view": "./assets/docs/1.pdf"
+    }
+  },
+  {
+    "name": "CS50P Certificate",
+    "desc": "I have successfully completed CS50P, a comprehensive and challenging programming course offered by edX.",
+    "image": "6",
+    "category": "certificate",
+    "links": {
+      "view": "https://cs50.harvard.edu/certificates/4e288e46-b7e1-4add-b97d-69a3de5ce30c"
+    }
+  },
+  {
+    "name": "Mathematics for ML & Data Science.",
+    "desc": "I am pleased to announce the successful completion of the online, non-credit specialization in Mathematics for Machine Learning and Data Science.",
+    "image": "2",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.coursera.org/account/accomplishments/specialization/3KX9EPLGAQAM"
+    }
+  },
+  {
+    "name": "Problem Solving (Intermediate)",
+    "desc": "Completed HackerRank assessment for problem-solving skills on Data Structures (HashMaps, Stacks, Queues) and Algorithms (Optimal Solutions).",
+    "image": "11",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/effcf0716220"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "desc": "Passed HackerRank role certification exam for Software Engineer which covers topics like Problem solving, SQL, and REST API.",
+    "image": "12",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/012094379c39"
+    }
+  },
+  {
+    "name": "SQL (Advanced)",
+    "desc": "Completed HackerRank assessment for SQL on topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.",
+    "image": "13",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/e71aec709dd2"
+    }
+  },
+  {
+    "name": "Java (Basic)",
+    "desc": "Completed HackerRank assessment on basic topics in Java language such as classes, data structures, inheritance, exception handling, etc.",
+    "image": "16",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/d38fd8835e9e"
+    }
+  },
+  {
+    "name": "Software Engineer Intern",
+    "desc": "Passed HackerRank role certification exam for Software Engineer Intern which covers topics like Problem solving and SQL.",
+    "image": "15",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/0137aa981973"
+    }
+  },
+  {
+    "name": "JavaScript (Intermediate)",
+    "desc": "Completed HackerRank assessment for JavaScript on topics like Design Patterns, Memory management, concurrency model, and event loops, among others.",
+    "image": "14",
+    "category": "certificate",
+    "links": {
+      "view": "hhttps://www.hackerrank.com/certificates/07ccda85bebe"
+    }
+  },
+  {
+    "name": "Certificate for Research",
+    "desc": "Certificate for the paper ID IJRASET55070, titled 'How ChatGPT (AI) is likely to become a Potential Threat (or not) to Human Imagination and Creativity?",
+    "image": "7",
+    "category": "research",
+    "links": {
+      "view": "https://www.ijraset.com/print-certificate/how-chatgpt-ai-is-likely-to-become-a-potential-threat-or-not-to-human-imagination-and-creativity"
+    }
+  },
+  {
+    "name": "Crash Course on Python",
+    "desc": "I proudly present the Certificate of Completion from the 'Crash Course on Python' on Coursera.",
+    "image": "5",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.coursera.org/account/accomplishments/verify/P76RW5V7X73P"
+    }
+  },
+  {
+    "name": "Certificate for Research",
+    "desc": "Certificate for My paper, 'A Review of Prime Numbers, Squaring Prime Pattern, Different Types of Primes, and Prime Factorization Analysis'",
+    "image": "8",
+    "category": "research",
+    "links": {
+      "view": "https://www.ijraset.com/print-certificate/a-review-of-prime-numbers-squaring-prime-pattern-different-types-of-primes-and-prime-factorization-analysis"
+    }
+  }
+  ,
+  {
+    "name": "Get Started with Python ",
+    "desc": "Celebrate my achievement with the Certificate of Completion earned from the 'Getting Started with Python' course on Coursera",
+    "image": "10",
+    "category": "certificate",
+    "links": {
+      "view": "https://www.coursera.org/account/accomplishments/verify/RETVW9RS2Z4B",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Certificate for Research",
+    "desc": "certificate for the paper, titled 'Enhancing Post-Quantum Cryptography: Exploring Mathematical Foundations and Comparative Analysis of Different Cryptographic Algorithms,'",
+    "image": "9",
+    "category": "research",
+    "links": {
+      "view": "https://www.ijraset.com/print-certificate/enhancing-post-quantum-cryptography-exploring-mathematical-foundations-and-comparative-analysis-of-different-cryptographic-algorithm"
+    }
+  }
+
+]
